@@ -41,7 +41,7 @@ A 16-week intensive development bootcamp, focusing on:
 
 ## Experience
 
-**State Street Corporation** (December 2013 to April 2018)   
+**State Street Corporation** (December 2013 to April 2018)
 *Senior Associate - Fund Administrator / Fund Accountant*  
 
 **State Street Corporation** (November 2010 to December 2013)
