@@ -43,12 +43,16 @@ A 16-week intensive development bootcamp, focusing on:
 
 **State Street Corporation** (December 2013 to April 2018)   
 *Senior Associate - Fund Administrator / Fund Accountant*  
+
 **State Street Corporation** (November 2010 to December 2013)
 *Associate 2 - Fund Administrator*  
+
 **State Street Corporation** (March 2006 to April 2009)
 *Associate - Fund Administrator*  
+
 **Steele Robertson Goddard** (May 2005 to March 2006)
 *Audit/Accounts Clerk*  
+
 **S.W. Frankson & Co** (July 2003 to April 2005)
 *Audit/Accounts Clerk*
 
