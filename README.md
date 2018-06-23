@@ -1,8 +1,6 @@
 ## Oliver Harris
 
-***
 [Projects](#projects) - [Skills/knowledge](#skills) - [Education](#education) - [Experience](#experience) -  [Interests](#interests) - [Contact details](#contact)
-***
 
 I am a junior developer and recent graduate from Maker Academy a highly selective  intensive 12 week software bootcamp with a focus on test driven development, object orientated programming and XP values.
 
