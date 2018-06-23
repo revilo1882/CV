@@ -75,4 +75,4 @@ My hobbies include football, golf, music and film.  I also enjoy experiencing ne
 Email - oliverrharris@gmail.com<br/>
 Phone - 07775338549<br/>
 <a href="https://www.linkedin.com/in/oliver-harris-638a0278/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" height="42" width="42"></a>
