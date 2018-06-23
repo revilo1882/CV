@@ -53,19 +53,19 @@ A 16-week intensive development bootcamp, focusing on:
 
 ## <a name="experience">Experience</a>
 
-**State Street Corporation** (December 2013 to April 2018)
+**State Street Corporation** (December 2013 to April 2018)<br/>
 *Senior Associate - Fund Administrator / Fund Accountant*  
 
-**State Street Corporation** (November 2010 to December 2013)
+**State Street Corporation** (November 2010 to December 2013)<br/>
 *Associate 2 - Fund Administrator*  
 
-**State Street Corporation** (March 2006 to April 2009)
+**State Street Corporation** (March 2006 to April 2009)<br/>
 *Associate - Fund Administrator*  
 
-**Steele Robertson Goddard** (May 2005 to March 2006)
+**Steele Robertson Goddard** (May 2005 to March 2006)<br/>
 *Audit/Accounts Clerk*  
 
-**S.W. Frankson & Co** (July 2003 to April 2005)
+**S.W. Frankson & Co** (July 2003 to April 2005)<br/>
 *Audit/Accounts Clerk*
 
 ## <a name="interests">Interests</a>
@@ -74,6 +74,6 @@ My hobbies include football, golf, music and film.  I also enjoy experiencing ne
 
 ## <a name="contact">Contact details</a>
 
-Email - oliverrharris@gmail.com
-Phone - 07775338549
+Email - oliverrharris@gmail.com<br/>
+Phone - 07775338549<br/>
 [Linkedin](https://www.linkedin.com/in/oliver-harris-638a0278/)
