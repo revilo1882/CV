@@ -10,9 +10,10 @@ I have over ten years experience in the Financial Services industry as a fund ad
 
 | Project | Summary | Technologies | Testing |
 |----------|----------|----------|----------|
+| [Hyper Cat](https://github.com/williampowell92/hyper_cat) | Final group project at Makers we built a game to gain a deeper understanding of Javascript and about the basics of game design . | Javascript, HTML, CSS, Heroku  | Jasmine, Karma, Istanbul |
 | [Fishbook](https://github.com/revilo1882/acebook-rails-LAHWF) | Group project to build a rails based application to mimic the basic functionality of Facebook. | Ruby, Rails, Heroku, AWS-SDK  | RSpec-rails, Capybara, Factory_bot_rails |
-| [MakersBnb ](https://github.com/revilo1882/MakersBnb) | An application to mimic the basic functionality of Airbnb; our first opportunity building a web app in a team. | Javascript | Jasmine|
 | [Bank Tech Test](https://github.com/revilo1882/bank_tech_test) | A app that simulates a bank account with the ability to withdraw, deposit and print statements. Intended to demonstrate good OOP design. | Ruby | Rspec  |
+| [Bowling Challenge ](https://github.com/revilo1882/bowling-challenge) | Back-end functionality for a webapp to score a single player game of bowling. | Javascript | Jasmine|
 
 ## <a name="skills">Skills/knowledge</a>
 
