@@ -69,11 +69,10 @@ A 16-week intensive development bootcamp, focusing on:
 
 ## <a name="interests">Interests</a>
 
-My hobbies include football, golf, music and film.  I also enjoy experiencing new cultures and took a career break during 2009 and 2010 to go travelling and see the world.
+I am passionate about football, golf, music, gaming and film.  I also enjoy experiencing new cultures and took a career break during 2009 and 2010 to go travelling and see the world.
 
 ## <a name="contact">Contact details</a>
 
 Email - oliverrharris@gmail.com<br/>
-Phone - 07775338549<br/>
 <a href="https://www.linkedin.com/in/oliver-harris-638a0278/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" height="42" width="42"></a>
