@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills/knowledge](#skills) | [Education](#education) | [Experience](#experience) |  [Interests](#interests) | [Contact details](#contact)
 
-I am a junior developer and recent graduate from Maker Academy, a highly selective intensive 12 week software bootcamp with a focus on test driven development, object oriented programming and XP values.
+I am a junior developer and recent graduate from Makers Academy, a highly selective intensive 12 week software bootcamp with a focus on test driven development, object oriented programming and XP values.
 
 I have over ten years experience in the Financial Services industry as a fund administrator and accountant and am looking to utilise my problem solving and analytical skills to take my career in a new direction.  I am a fast learner looking forward to a new challenge to apply my recently acquired skills and continue building on that knowledge to help me gain experience in the industry.
 
@@ -19,7 +19,7 @@ I have over ten years experience in the Financial Services industry as a fund ad
 
 #### Problem Solver
 
-Throughout my professional career I have constantly looked for ways to improve and automate processes where possible.  This has included building excel macros to improve the speed and accuracy of daily tasks and updating financial statement templates to meet any new accounting standard requirements.  I also enjoy keeping my brain active in my spare time with puzzles, usually playing on an app on my daily commute or before going to bed.
+Throughout my professional career I have constantly looked for ways to improve and automate processes where possible.  This has included building Excel macros to improve the speed and accuracy of daily tasks and updating financial statement templates to meet any new accounting standard requirements.  I also enjoy keeping my brain active in my spare time with puzzles, usually playing on an app on my daily commute or before going to bed.
 
 #### Quick Learner
 
