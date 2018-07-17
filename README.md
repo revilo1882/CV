@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills/knowledge](#skills) | [Education](#education) | [Experience](#experience) |  [Interests](#interests) | [Contact details](#contact)
 
-I am a junior developer and recent graduate from Maker Academy, a highly selective intensive 12 week software bootcamp with a focus on test driven development, object orientated programming and XP values.
+I am a junior developer and recent graduate from Maker Academy, a highly selective intensive 12 week software bootcamp with a focus on test driven development, object oriented programming and XP values.
 
 I have over ten years experience in the Financial Services industry as a fund administrator and accountant and am looking to utilise my problem solving and analytical skills to take my career in a new direction.  I am a fast learner looking forward to a new challenge to apply my recently acquired skills and continue building on that knowledge to help me gain experience in the industry.
 
