@@ -19,7 +19,7 @@ I have over ten years experience in the Financial Services industry as a fund ad
 
 #### Problem Solver
 
-Problem solving is in my nature and is the main reason I was drawn to a career as a software engineer.   Throughout my professional career I have constantly looked for ways to improve and automate processes where possible.  This has included building Excel macros to improve the speed and accuracy of daily tasks and updating financial statement templates to meet any new accounting standard requirements.  I also enjoy keeping my brain active in my spare time with any new puzzles I can find for my phone.
+Problem solving is in my nature and is the main reason I was drawn to a career as a software engineer.   Throughout my professional career I have constantly looked for ways to improve and automate processes.  This has included building Excel macros to improve the speed and accuracy of daily tasks and updating financial statement templates to meet any new accounting standard requirements.  I also enjoy keeping my brain active in my spare time with any new puzzles I can find for my phone.
 
 #### Quick Learner
 
