@@ -69,7 +69,7 @@ A 16-week intensive development bootcamp, focusing on:
 
 ## <a name="interests">Interests</a>
 
-I am passionate about football, golf, gaming, music, and film.  I also enjoy experiencing new cultures and took a career break during 2009 and 2010 to go travelling and see the world.
+I am passionate about football, gaming, music, and film.  I also enjoy experiencing new cultures and took a career break during 2009 and 2010 to go travelling and see the world.
 
 ## <a name="contact">Contact details</a>
 
