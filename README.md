@@ -19,7 +19,7 @@ I have over ten years experience in the Financial Services industry as a fund ad
 
 #### Clean code and TDD advocate
 
-I am an advocate for clean, DRY, readable, and adaptable code. I have learned that in the long run, this approach lowers the risk of mistakes having wide spread effect, and allows new features to be added with ease without breaking current tests.
+I am an advocate for clean, DRY, readable and adaptable code. I have learned that in the long run, this approach lowers the risk of mistakes having wide spread effect, and allows new features to be added with ease without breaking current tests.
 
 I believe that a TDD approach is integral to good software development. At makers, I have found that compliance to the ways of TDD have massively improved my ability to write efficient code, debug and gain visibility when faced with blockers.
 
@@ -29,7 +29,9 @@ Problem solving is in my nature and is the main reason I was drawn to a career a
 
 #### Quick Learner
 
-I was accepted onto the Makers Academy course after just one month of looking at code for the first time having quickly recognised my aptitude and enthusiasm for the subject.  During the course I have learned three new languages and various frameworks while also learning about all the best practices in software development.  During my time in the financial services I achieved recognition from my peers and management for my analytical and mathematical skills and moved from a fund administrator to fund accountant role with little formal training and quickly became the sole producer of the financial statements of one of the most highly recognised property funds in the UK.  
+I was accepted onto the Makers Academy course after just one month of looking at code for the first time having quickly recognised my aptitude and enthusiasm for the subject.  During the course I have learned three new languages and various frameworks while also learning about all the best practices in software development.
+
+During my time in the financial services I achieved recognition from my peers and management for my analytical and mathematical skills and moved from a fund administrator to fund accountant role with little formal training and quickly became the sole producer of the financial statements of one of the most highly recognised property funds in the UK.  
 
 #### Teamwork
 
@@ -41,7 +43,7 @@ During my time at Makers I was able to develop my skills further firstly by bein
 
 I pride myself on my work being of a high standard and error free as can be.  This was an important aspect of my role as both fund administrator and accountant as daily and monthly results were sent to the client or released to the stock exchange and any errors could result in a financial impact to the company.  Excellent results were achieved whilst under intense pressure to meet tight deadlines.
 
-I have found this skill has really helped me debugging code and creating clean code and is also something I find very rewarding.
+I have found this skill has really helped me debug and create clean code which is something I find very rewarding.
 
 ## <a name="education">Education</a>
 
