@@ -25,11 +25,17 @@ I believe that a TDD approach is integral to good software development. At maker
 
 #### Problem Solver
 
-Problem solving is in my nature and is the main reason I was drawn to a career as a software engineer.   Throughout my professional career I have constantly looked for ways to improve and automate processes.  This has included building Excel macros to improve the speed and accuracy of daily tasks and updating financial statement templates to meet any new accounting standard requirements.  I also enjoy keeping my brain active in my spare time with any new puzzles I can find for my phone.
+Problem solving is in my nature and is the main reason I was drawn to a career as a software engineer.   Throughout my professional career I have constantly looked for ways to improve and automate processes.  Coding has felt like a natural fit for me as I see it is an endless set of problems while finding ways to automate whatever I can.  I particularly love finding a bug in code and going through steps to gain visibility in order to solve the problem.
 
 #### Quick Learner
 
 I was accepted onto the Makers Academy course after just one month of looking at code for the first time having quickly recognised my aptitude and enthusiasm for the subject.  During the course I have learned three new languages and various frameworks while also learning about all the best practices in software development.  During my time in the financial services I achieved recognition from my peers and management for my analytical and mathematical skills and moved from a fund administrator to fund accountant role with little formal training and quickly became the sole producer of the financial statements of one of the most highly recognised property funds in the UK.  
+
+#### Teamwork
+
+I have always found that a happy team is a productive team which can maintain the ability to work through the highs and the lows.  During my career, in order to achieve this and be part of a successful team I worked on developing my communication, decision making and planning.
+
+During my time at Makers I was able to develop my skills further firstly by being introduced to through pair programming and XP values and later through software development in small teams of 4 to 6 people using agile methodologies such as sprints and Kanban.
 
 #### Attention to detail
 
