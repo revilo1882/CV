@@ -17,6 +17,12 @@ I have over ten years experience in the Financial Services industry as a fund ad
 
 ## <a name="skills">Skills/knowledge</a>
 
+#### Clean code and TDD advocate
+
+I am an advocate for clean, DRY, readable, and adaptable code. I have learned that in the long run, this approach lowers the risk of mistakes having wide spread effect, and allows new features to be added with ease without breaking current tests.
+
+I believe that a TDD approach is integral to good software development. At makers, I have found that compliance to the ways of TDD have massively improved my ability to write efficient code, debug and gain visibility when faced with blockers.
+
 #### Problem Solver
 
 Problem solving is in my nature and is the main reason I was drawn to a career as a software engineer.   Throughout my professional career I have constantly looked for ways to improve and automate processes.  This has included building Excel macros to improve the speed and accuracy of daily tasks and updating financial statement templates to meet any new accounting standard requirements.  I also enjoy keeping my brain active in my spare time with any new puzzles I can find for my phone.
