@@ -33,7 +33,9 @@ I was accepted onto the Makers Academy course after just one month of looking at
 
 #### Attention to detail
 
-An important aspect of my role as both fund administrator and accountant was constant attention to detail.  Daily and monthly results were sent to the client or released to the stock exchange and any errors could result in a financial impact to the company.  Excellent results were achieved whilst under intense pressure to meet tight deadlines.  I have found this skill has really helped me so far in debugging code or preventing bugs in the first place and is also something I find very rewarding.
+I pride myself on my work being of a high standard and error free as can be.  This was an important aspect of my role as both fund administrator and accountant as daily and monthly results were sent to the client or released to the stock exchange and any errors could result in a financial impact to the company.  Excellent results were achieved whilst under intense pressure to meet tight deadlines.
+
+I have found this skill has really helped me debugging code and creating clean code and is also something I find very rewarding.
 
 ## <a name="education">Education</a>
 
