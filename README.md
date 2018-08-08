@@ -25,7 +25,7 @@ I believe that a TDD approach is integral to good software development. At maker
 
 #### Problem Solver
 
-Problem solving is in my nature and is the main reason I was drawn to a career as a software engineer.   Throughout my professional career I have constantly looked for ways to improve and automate processes.  Coding has felt like a natural fit for me as I see it is an endless set of problems while finding ways to automate whatever I can.  I particularly love finding a bug in code and going through steps to gain visibility in order to solve the problem.
+Problem solving is in my nature and is the main reason I was drawn to a career as a software engineer.   Throughout my professional career I have constantly looked for ways to improve and automate processes.  Coding has felt like a natural fit for me as I see it as an endless set of problems to solve while finding ways to automate whatever I can.  I particularly love finding a bug in code and going through steps to gain visibility in order to solve the problem.
 
 #### Quick Learner
 
@@ -37,7 +37,7 @@ During my time in the financial services I achieved recognition from my peers an
 
 I have always found that a happy team is a productive team which can maintain the ability to work through the highs and the lows.  During my career, in order to achieve this and be part of a successful team I worked on developing my communication, decision making and planning.
 
-During my time at Makers I was able to develop my skills further firstly by being introduced to through pair programming and XP values and later through software development in small teams of 4 to 6 people using agile methodologies such as sprints and Kanban.
+During my time at Makers I was able to develop my skills further firstly by being introduced to pair programming and XP values and later through software development in small teams of 4 to 6 people using agile methodologies such as sprints and Kanban.
 
 #### Attention to detail
 
@@ -89,7 +89,7 @@ I am passionate about football, gaming, music, and film.  I also enjoy experienc
 
 ## <a name="contact">Contact details</a>
 
-Email - oliverrharris@gmail.com<br/>
+Email - OliverRHarris@gmail.com<br/>
 Telephone - 07775 338 549<br/>
 <a href="https://www.linkedin.com/in/oliver-harris-638a0278/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" height="42" width="42"></a>
