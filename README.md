@@ -1,19 +1,24 @@
 ## Oliver Harris
 
-[Projects](#projects) | [Skills/knowledge](#skills) | [Education](#education) | [Experience](#experience) |  [Interests](#interests) | [Contact details](#contact)
+[Projects](#projects) | [Technical Summary](#technical) | [Skills/knowledge](#skills) | [Education](#education) | [Experience](#experience) |  [Interests](#interests) | [Contact details](#contact)
 
 I am a junior developer and recent graduate from Makers Academy, a highly selective intensive 12 week software bootcamp with a focus on test driven development, object oriented programming and XP values.  My love for technology and problem solving has led me to the world of coding and I haven't looked back since.
 
 I have over ten years experience in the Financial Services industry as a fund administrator and accountant and am looking to utilise my analytical skills to take my career in a new direction.  I am a fast learner looking forward to a new challenge that allows me to apply my recently acquired skills and continue building my knowledge to help me gain experience in the tech industry.
 
+## <a name="technical">Technical Summary
+
+Javascript (ES5, ES6), React, Redux, jQuery, Ruby, Ruby-On-Rails, Sass, CSS, HTML5, Git, Github,
+Node, Express, Sinatra, Rspec, Jasmine, Capybara, Jest, Enzyme, SQL, PostgreSQL, Travis, AWS.
+
 ## <a name="projects">Projects</a>
 
 | Project | Summary | Technologies | Testing |
 |----------|----------|----------|----------|
+| [Phone Tech Test](https://github.com/revilo1882/phone_tech_test) | A data driven component of a website which updates the state from a data file when the user clicks on on a selection. | React | Enzyme  |
 | [Hyper Cat](https://github.com/revilo1882/hyper_cat) | For our final group project at Makers we built a game to gain a deeper understanding of Javascript and about the basics of game design . | Javascript, HTML, CSS, Heroku  | Jasmine, Karma, Istanbul |
 | [Fishbook](https://github.com/revilo1882/acebook-rails-LAHWF) | Group project to build a rails based application to mimic the basic functionality of Facebook. | Ruby, Rails, Heroku, AWS-SDK  | RSpec-rails, Capybara, Factory_bot_rails |
 | [Bank Tech Test](https://github.com/revilo1882/bank_tech_test) | An app that simulates a bank account with the ability to withdraw, deposit and print statements. Intended to demonstrate good OOP design. | Ruby | Rspec  |
-| [Bowling Challenge ](https://github.com/revilo1882/bowling-challenge) | Back-end functionality for a webapp to score a single player game of bowling. | Javascript | Jasmine|
 
 ## <a name="skills">Skills/knowledge</a>
 
